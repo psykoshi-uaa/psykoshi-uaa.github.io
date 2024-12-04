@@ -5,6 +5,8 @@
 
 ___
 
+https://github.com/psykoshi-uaa/CS201-Project
+
 ### CS201-Project
   This [project](https://github.com/psykoshi-uaa/CS201-Project) is a creative assignment from Computer Science 201 at University of Alaska Anchorage. Starcaller is an incremental space-faring game. You fly to planets and click buttons that represent missions. Those missions will consume time until the repo men get you and increase your currency based on upgrades bought at the market. Make sure to pay off your debt before it's game over!
 
