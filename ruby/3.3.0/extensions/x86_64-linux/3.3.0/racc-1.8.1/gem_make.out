@@ -1,0 +1,18 @@
+current directory: /home/psykoshi/sch/writing/psykoshi-uaa.github.io/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+/usr/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/psykoshi/sch/writing/psykoshi-uaa.github.io/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241204-6868-ma6qgk sitelibdir\=./.gem.20241204-6868-ma6qgk clean
+
+current directory: /home/psykoshi/sch/writing/psykoshi-uaa.github.io/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241204-6868-ma6qgk sitelibdir\=./.gem.20241204-6868-ma6qgk
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/psykoshi/sch/writing/psykoshi-uaa.github.io/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241204-6868-ma6qgk sitelibdir\=./.gem.20241204-6868-ma6qgk install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20241204-6868-ma6qgk/racc
+
+current directory: /home/psykoshi/sch/writing/psykoshi-uaa.github.io/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241204-6868-ma6qgk sitelibdir\=./.gem.20241204-6868-ma6qgk clean
